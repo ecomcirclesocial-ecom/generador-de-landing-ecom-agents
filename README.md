@@ -1,4 +1,4 @@
-# Generador de Landing Pages · Ecom Circle
+# Generador de Landing Pages · Ecom Agents
 
 Herramienta local que arma landing pages de producto **sección por sección** con IA y
 las publica como **página de producto en Shopify**.
@@ -26,8 +26,8 @@ Versión 1.0.0 · Licencia MIT
 
 ```bash
 # 1. Clona el repo
-git clone https://github.com/ecomcirclesocial-ecom/ecom-circle.git
-cd ecom-circle
+git clone https://github.com/ecomcirclesocial-ecom/generador-de-landing-ecom-agents.git
+cd generador-de-landing-ecom-agents
 
 # 2. Instala las dependencias
 npm install
@@ -154,7 +154,7 @@ Esta herramienta está hecha para crecer con Claude Code. El repo trae un
 qué no romper.
 
 ```bash
-cd ecom-circle
+cd generador-de-landing-ecom-agents
 claude
 ```
 
