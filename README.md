@@ -26,8 +26,8 @@ Versión 1.0.0 · Licencia MIT
 
 ```bash
 # 1. Clona el repo
-git clone https://github.com/ecomcirclesocial-ecom/generador-landing-ecom-circle.git
-cd generador-landing-ecom-circle
+git clone https://github.com/ecomcirclesocial-ecom/ecom-circle.git
+cd ecom-circle
 
 # 2. Instala las dependencias
 npm install
@@ -154,7 +154,7 @@ Esta herramienta está hecha para crecer con Claude Code. El repo trae un
 qué no romper.
 
 ```bash
-cd generador-landing-ecom-circle
+cd ecom-circle
 claude
 ```
 
