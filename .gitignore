@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+.env
+.env.local
+.DS_Store
+/data/landings
+/data/config.json
+*.tsbuildinfo
+next-env.d.ts
+.gstack/
+.claude/settings.local.json
+*.log

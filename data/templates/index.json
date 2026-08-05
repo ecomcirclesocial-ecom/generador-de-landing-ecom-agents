@@ -1,0 +1,250 @@
+[
+  {
+    "id": "1782352760931-9i34xo",
+    "category": "testimonios",
+    "name": "hero-17b36e1b-b1d1-4ea8-a126-ca38fa5b9099.webp",
+    "file": "1782352760931-9i34xo.webp",
+    "createdAt": "2026-06-25T01:59:20.932Z",
+    "niche": "fitness"
+  },
+  {
+    "id": "1782870366256-icv8fq",
+    "category": "oferta",
+    "name": "1771889973-section-72086-optimized.webp",
+    "file": "1782870366256-icv8fq.webp",
+    "createdAt": "2026-07-01T01:46:06.257Z",
+    "niche": "salud"
+  },
+  {
+    "id": "1783474059142-i6szj6",
+    "category": "hero",
+    "name": "18de5c5c-cd00-4f34-94a1-e7d6b7f1956d",
+    "file": "1783474059142-i6szj6.jpeg",
+    "createdAt": "2026-07-08T01:27:39.143Z",
+    "niche": "salud"
+  },
+  {
+    "id": "1783474059270-h10n9j",
+    "category": "hero",
+    "name": "65645c33-9b61-4de4-8f22-d06addcd54c7",
+    "file": "1783474059270-h10n9j.jpeg",
+    "createdAt": "2026-07-08T01:27:39.271Z",
+    "niche": "salud"
+  },
+  {
+    "id": "1783474059383-b8i8f7",
+    "category": "beneficios",
+    "name": "ea38a80d-0285-46d5-ba35-00811c41a380",
+    "file": "1783474059383-b8i8f7.jpeg",
+    "createdAt": "2026-07-08T01:27:39.384Z",
+    "niche": "salud"
+  },
+  {
+    "id": "1783474059499-2uopq6",
+    "category": "oferta",
+    "name": "3c195825-ebf4-43c4-8c81-491d8c716c9f",
+    "file": "1783474059499-2uopq6.jpeg",
+    "createdAt": "2026-07-08T01:27:39.500Z",
+    "niche": "salud"
+  },
+  {
+    "id": "1783474059606-3wzqjk",
+    "category": "antes-despues",
+    "name": "de7b9c16-8c43-41a6-be6e-1fb38f372324",
+    "file": "1783474059606-3wzqjk.jpeg",
+    "createdAt": "2026-07-08T01:27:39.607Z",
+    "niche": "salud"
+  },
+  {
+    "id": "1783474059716-d5had3",
+    "category": "como-se-usa",
+    "name": "efff7ab7-4e6f-43da-bc65-381068b4fdba",
+    "file": "1783474059716-d5had3.jpeg",
+    "createdAt": "2026-07-08T01:27:39.717Z",
+    "niche": "salud"
+  },
+  {
+    "id": "1783474059827-si37kn",
+    "category": "antes-despues",
+    "name": "d92e6aec-6874-4948-883d-4dc3e0bde442",
+    "file": "1783474059827-si37kn.jpeg",
+    "createdAt": "2026-07-08T01:27:39.829Z",
+    "niche": "salud"
+  },
+  {
+    "id": "1783474059930-x1b355",
+    "category": "comparativa",
+    "name": "4b586e54-9cef-4355-9c88-4c2f41ca5c43",
+    "file": "1783474059930-x1b355.jpeg",
+    "createdAt": "2026-07-08T01:27:39.930Z",
+    "niche": "salud"
+  },
+  {
+    "id": "1783474060039-e59enl",
+    "category": "beneficios",
+    "name": "a3b02f5b-cec3-4ee9-9233-4ec731e53b33",
+    "file": "1783474060039-e59enl.jpeg",
+    "createdAt": "2026-07-08T01:27:40.041Z",
+    "niche": "salud"
+  },
+  {
+    "id": "1783474060148-nu3ucl",
+    "category": "testimonios",
+    "name": "4913e9cd-cbcd-4887-871d-6e6d1313858a",
+    "file": "1783474060148-nu3ucl.jpeg",
+    "createdAt": "2026-07-08T01:27:40.148Z",
+    "niche": "salud"
+  },
+  {
+    "id": "1784319617257-9wnt7g",
+    "category": "beneficios",
+    "name": "1_577224f6-245d-4703-8a43-89829355597a",
+    "file": "1784319617257-9wnt7g.webp",
+    "createdAt": "2026-07-17T20:20:17.258Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319617471-y7td60",
+    "category": "como-se-usa",
+    "name": "3_06c57190-4bed-46b9-878b-0faf5b8dc3fc",
+    "file": "1784319617471-y7td60.webp",
+    "createdAt": "2026-07-17T20:20:17.472Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319617731-hbp68m",
+    "category": "beneficios",
+    "name": "5_257a07c2-8304-40a9-a0c9-b8a381ae9064",
+    "file": "1784319617731-hbp68m.webp",
+    "createdAt": "2026-07-17T20:20:17.732Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319617906-u8ng6q",
+    "category": "beneficios",
+    "name": "7_f0ebed25-6c73-486f-bee0-63ff65ac4755",
+    "file": "1784319617906-u8ng6q.webp",
+    "createdAt": "2026-07-17T20:20:17.908Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319618095-2sq8sd",
+    "category": "como-se-usa",
+    "name": "2_c750a2c9-efad-4b4d-95c4-2a18852d854e",
+    "file": "1784319618095-2sq8sd.webp",
+    "createdAt": "2026-07-17T20:20:18.097Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319618279-h7xx4w",
+    "category": "beneficios",
+    "name": "4_390f0213-796c-4cf3-9a53-6f98c7eae0c5",
+    "file": "1784319618279-h7xx4w.webp",
+    "createdAt": "2026-07-17T20:20:18.281Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319618470-00ggjt",
+    "category": "beneficios",
+    "name": "6_f03532c8-e6cf-478b-87a1-874956264a90",
+    "file": "1784319618470-00ggjt.webp",
+    "createdAt": "2026-07-17T20:20:18.472Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319619550-cwr3kg",
+    "category": "beneficios",
+    "name": "ChatGPT_Image_30_jun_2026_15_39_10_34d3881b-4272-48cc-8e6a-9",
+    "file": "1784319619550-cwr3kg.png",
+    "createdAt": "2026-07-17T20:20:19.552Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319619858-unbfnh",
+    "category": "antes-despues",
+    "name": "4",
+    "file": "1784319619858-unbfnh.jpg",
+    "createdAt": "2026-07-17T20:20:19.859Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319620076-a9ia2t",
+    "category": "beneficios",
+    "name": "5",
+    "file": "1784319620076-a9ia2t.jpg",
+    "createdAt": "2026-07-17T20:20:20.077Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319621099-auzwi5",
+    "category": "antes-despues",
+    "name": "ChatGPT_Image_30_jun_2026_15_39_18_23e1cc54-1821-4298-89f0-1",
+    "file": "1784319621099-auzwi5.png",
+    "createdAt": "2026-07-17T20:20:21.101Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319622122-ez2po3",
+    "category": "como-se-usa",
+    "name": "ChatGPT_Image_30_jun_2026_15_40_19",
+    "file": "1784319622122-ez2po3.png",
+    "createdAt": "2026-07-17T20:20:22.125Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319622307-o51ztz",
+    "category": "beneficios",
+    "name": "6_5baba508-6018-4c18-977e-885f5124988d",
+    "file": "1784319622307-o51ztz.jpg",
+    "createdAt": "2026-07-17T20:20:22.308Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319622746-rsaby8",
+    "category": "hero",
+    "name": "web_Dog_is_Human_r1_DFS_1045_1",
+    "file": "1784319622746-rsaby8.png",
+    "createdAt": "2026-07-17T20:20:22.748Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319623828-g8od27",
+    "category": "beneficios",
+    "name": "ChatGPT_Image_30_jun_2026_15_40_03",
+    "file": "1784319623828-g8od27.png",
+    "createdAt": "2026-07-17T20:20:23.831Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319624913-zfoyrz",
+    "category": "como-se-usa",
+    "name": "ezgif.com-gif-maker_1",
+    "file": "1784319624913-zfoyrz.gif",
+    "createdAt": "2026-07-17T20:20:24.917Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784319625996-k3a4ug",
+    "category": "faq",
+    "name": "ChatGPT_Image_30_jun_2026_15_40_54",
+    "file": "1784319625996-k3a4ug.png",
+    "createdAt": "2026-07-17T20:20:25.998Z",
+    "niche": "mascotas"
+  },
+  {
+    "id": "1784684998204-78teii",
+    "category": "anuncio",
+    "name": "gallery-a73f7238-7275-4e3c-afa0-8bbdcf83ba93.webp",
+    "file": "1784684998204-78teii.webp",
+    "createdAt": "2026-07-22T01:49:58.205Z",
+    "niche": "belleza"
+  },
+  {
+    "id": "1784685351865-4lp66t",
+    "category": "anuncio",
+    "name": "Anuncio Limpiador Facial Vitamina C",
+    "niche": "belleza",
+    "file": "1784685351865-4lp66t.webp",
+    "createdAt": "2026-07-22T01:55:51.865Z"
+  }
+]
